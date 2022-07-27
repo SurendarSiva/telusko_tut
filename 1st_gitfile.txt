@@ -5,3 +5,5 @@ Welcome to Git repo....
 commits
 
 final commit
+
+Spring project added
